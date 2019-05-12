@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">Exemplo1</string>
+<string name="mensagem">Meu primeiro aplicativo</string>
+<string name="mensagem2">Digite seu nome</string>
+<string name="MensagemOK">Ok</string>
+
+</resources>
